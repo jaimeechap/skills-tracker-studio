@@ -90,7 +90,7 @@ public class SkillsController {
                 "table, th, td {" +
                 "border:1px solid black;" +
                 "}" +
-                "</style>" +
+                "</style> " +
                 "<body>" +
                 "<h1>"+name+
                 "</h1>" +
