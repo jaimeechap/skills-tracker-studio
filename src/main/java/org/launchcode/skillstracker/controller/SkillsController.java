@@ -69,7 +69,7 @@ public class SkillsController {
                 "<br />" +
                 "<td>" +
                 "<label>" +
-                "My third language" +
+                "My third language " +
                 "<select name='thirdLanguage' id='thirdLanguage'>" +
                 "<option value='Java'>Java</option>" +
                 "<option value='JavaScript'>JavaScript</option>" +
